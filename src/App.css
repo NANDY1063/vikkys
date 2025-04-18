@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Lora', serif !important;
+  background-color: white!important;
+}
+.MuiInputBase-input {
+  text-align: center;
+}
+
