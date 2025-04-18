@@ -21,7 +21,7 @@ const HomePage = () => {
     <Button 
           startIcon={<ExitToApp />}
           sx={{ justifyContent: 'flex-start' }}
-          onClick={() => console.log('Logout clicked')}
+          onClick={() => navigate('/login')} 
         >
           Logout
         </Button>
